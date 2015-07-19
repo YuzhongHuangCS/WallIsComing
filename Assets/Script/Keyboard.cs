@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class KeyboardMove : MonoBehaviour {
+public class Keyboard : MonoBehaviour {
 	
 	public Vector3 xSpeed;
 	public Vector3 ySpeed;
